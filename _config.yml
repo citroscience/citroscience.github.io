@@ -35,9 +35,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : phisyks
+  username               : "phisyks"
 facebook:
-  username               : phisyks
+  username               : "phisyks"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
