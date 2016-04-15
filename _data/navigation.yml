@@ -2,5 +2,6 @@
 main:
   - title: "About"
     url: https://citroscience.github.io/about/
-
+  - title: "Discuss"
+    url: http://discuss-phisyks.rhcloud.com/
   
