@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "citroscience"
 title_separator          : "-"
-name                     : "citroscience"
+name                     : "citros"
 description              : "Learn science here."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
