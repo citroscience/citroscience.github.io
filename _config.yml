@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "citroscience"
 title_separator          : "-"
-name                     : "citros"
+name                     : "citroscience"
 description              : "Learn science here."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : "phisyks"
 facebook:
   username               : 
   app_id                 :
@@ -46,7 +46,10 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://twitter.com/phisyks"
+    - "https://facebook.com/phisyks"
+    
 
 # Analytics
 analytics:
@@ -204,3 +207,16 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
