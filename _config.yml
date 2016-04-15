@@ -18,9 +18,9 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # breadcrumbs              : false # true, false (default)
 # words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               : disqus
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : citroscience
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : "phisyks"
 facebook:
   username               : 
   app_id                 :
@@ -65,16 +65,22 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "citroscience"
+<<<<<<< HEAD
   avatar           : "logo-lemon.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
+=======
+  avatar           : "logo-lemon.JPG"
+  bio              : "Freestyle Phisycist, like coding and coffee :D"
+  location         : "Multiverse"
+>>>>>>> origin/master
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "phisyks"
   foursquare       :
   github           :
   google_plus      :
@@ -87,7 +93,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "phisyks"
   vine             :
   weibo            :
   xing             :
