@@ -65,12 +65,9 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "citroscience"
-  avatar           : "logo-lemon.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
   avatar           : "logo-lemon.JPG"
   bio              : "Freestyle Phisycist, like coding and coffee :D"
-  location         : "Multiverse"
+  location         : "Somewhere in the Multiverse"
   email            :
   uri              :
   bitbucket        :
