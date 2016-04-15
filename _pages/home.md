@@ -6,6 +6,6 @@ header:
   cta_label: "Articles"
   cta_url: "https://citroscience.github.io/blog/"
 title: "citroscience"
-author_profile: false
+author_profile: true
 permalink: /
 ---
