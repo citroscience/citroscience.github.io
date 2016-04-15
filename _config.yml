@@ -66,15 +66,15 @@ google_ad_slot           :
 author:
   name             : "citroscience"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Freestyle Phisycist."
+  location         : "Multiverse"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "phisyks"
   foursquare       :
   github           :
   google_plus      :
@@ -87,7 +87,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "phisyks"
   vine             :
   weibo            :
   xing             :
