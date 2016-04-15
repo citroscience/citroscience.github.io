@@ -1,11 +1,10 @@
 # main links links
 main:
-  - title: "About"
-    url: https://citroscience.github.io/about/
-  - title: "Blog"
+  - title: "Articles"
     url: https://citroscience.github.io/blog/
   - title: "Discuss"
     url: http://discuss-phisyks.rhcloud.com/
-
+  - title: "About"
+    url: https://citroscience.github.io/about/
   
 
