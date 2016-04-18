@@ -1,11 +1,11 @@
 ---
-layout: splash
+layout: single
 excerpt: "Learn the Science of Everything."
 header:
   overlay_image: header.jpg
   cta_label: "Read Articles"
   cta_url: "https://citroscience.github.io/blog/"
 title: "citroscience"
-author_profile: true
+author_profile: false
 permalink: /
 ---
