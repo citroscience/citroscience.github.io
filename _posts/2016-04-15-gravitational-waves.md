@@ -12,6 +12,7 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "citroscience"
+
 ---
 
 The idea of so called gravitational waves originated from the theory of
