@@ -4,6 +4,8 @@ main:
     url: https://citroscience.github.io/blog/
   - title: "Discuss"
     url: http://discuss-phisyks.rhcloud.com/
+  - title: "Slack"
+    url: https://citroscience.github.io/slack/
   - title: "About"
     url: https://citroscience.github.io/about/
 
