@@ -35,9 +35,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "phisyks"
+  username               : "citroscience"
+google_plus:
+  username               : "citroscience"
 facebook:
-  username               : "phisyks"
+  username               : "citroscience"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -47,8 +49,8 @@ social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-    - "https://twitter.com/phisyks"
-    - "https://facebook.com/phisyks"
+    - "https://twitter.com/citroscience"
+    - "https://facebook.com/citroscience"
 
 
 # Analytics
@@ -74,10 +76,10 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "phisyks"
+  facebook         : "citroscience"
   foursquare       :
   github           :
-  google_plus      :
+  google_plus      : "citroscience"
   keybase          :
   instagram        :
   lastfm           :
@@ -87,7 +89,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "phisyks"
+  twitter          : "citroscience"
   vine             :
   weibo            :
   xing             :
