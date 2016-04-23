@@ -1,6 +1,6 @@
 ---
 layout: single
-excerpt: "Learn the Science of Everything."
+excerpt: "A different perspective of science."
 header:
   overlay_image: header.jpg
   cta_label: "Read Articles"
