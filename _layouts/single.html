@@ -50,7 +50,11 @@ layout: default
         {% endif %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+      {% if page.share %}
+
+      <div class='shareaholic-canvas' data-app='share_buttons' data-app-id=''></div>
+
+      {% endif %}
 
       {% include post_pagination.html %}
     </div>
