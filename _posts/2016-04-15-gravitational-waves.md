@@ -12,7 +12,9 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "citroscience"
-
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Gravitational_Waves_Background.png"
+summary: "Disturbing mass in space, we should get gravitational waves due to
+the disturbances we make in the gravitational field around it..."
 ---
 
 The idea of so called gravitational waves originated from the theory of

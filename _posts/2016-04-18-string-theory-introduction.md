@@ -13,7 +13,8 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "citroscience"
-
+image: "https://drive.google.com/uc?id=0BxnuEY6ZhVl3NExCcUxBRzNVY0E"
+summary: "String theory tries to explain the fundamental laws of nature in an entirely different way. "
 ---
 
 
