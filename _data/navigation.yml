@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Articles"
-    url: https://citroscience.github.io/blog/
-  - title: "Discuss"
-    url: https://discuss-citros.rhcloud.com/
+  - title: "Blog"
+    url: https://blog.citroscience.org/blog/
+  - title: "Community"
+    url: https://citroscience.org
   - title: "Slack"
-    url: https://citroscience.github.io/slack/
+    url: https://blog.citroscience.org/slack/
   - title: "About"
-    url: https://citroscience.github.io/about/
+    url: https://blog.citroscience.org/about/
 
 

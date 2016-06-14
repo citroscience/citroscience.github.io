@@ -1,11 +1,14 @@
 ---
 layout: single
-excerpt: "A different perspective of science."
+excerpt: "A Community for Science Enthusiasts"
 header:
   overlay_image: header.jpg
-  cta_label: "Read Articles"
-  cta_url: "https://citroscience.github.io/blog/"
+  cta_label: "Community"
+  cta_url: "https://citroscience.org"
 title: ""
 author_profile: false
 permalink: /
 ---
+
+## Welcome to citroscience
+

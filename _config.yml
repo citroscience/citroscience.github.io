@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "citroscience"
 title_separator          : "-"
 name                     : "citroscience"
-description              : "Learn science here."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A Community for Science Enthusiasts"
+url                      : "https://blog.citroscience.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -70,7 +70,7 @@ author:
   avatar           : "logo-lemon.JPG"
   bio              : "Freestyle Phisycist, like coding and coffee :D"
   location         : "Somewhere in the Multiverse"
-  email            :
+  email            : "citros@citroscience.org"
   uri              :
   bitbucket        :
   codepen          :
