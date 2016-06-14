@@ -50,12 +50,10 @@ radiation from that period. Scientist say that gravitational waves should have
 affected the light coming from that period of time.
 
 Finally we did get an image from that period of the polarized light (shown
-below) which was detected by BICEP 2 back in March 2014.
+below) which was detected by BICEP 2 back in March 2014. <a href="https://en.wikipedia.org/wiki/BICEP_and_Keck_Array" desc="Check out for LIGO which finally detected a gravitational wave source">BICEP 2</a>
 
 **But this was later ruled out and confirmed to be the result of cosmic dust.**
 
 So we don’t have a proof yet to confirm the existence of gravitational waves but
 that doesn’t stop scientists from working hard to prove its existence and it may
 occur soon.
-
-
