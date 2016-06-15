@@ -7,5 +7,6 @@ header:
   cta_url: "https://citroscience.org"
 title: ""
 author_profile: false
-permalink: /
+permalink: /projects/
 ---
+
