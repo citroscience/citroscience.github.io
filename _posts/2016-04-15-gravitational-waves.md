@@ -2,7 +2,7 @@
 path: ""
 type: posts
 layout: single
-author_profile: false
+author_profile: true
 author: Hari Prasad
 read_time: true
 comments: true
@@ -50,7 +50,7 @@ radiation from that period. Scientist say that gravitational waves should have
 affected the light coming from that period of time.
 
 Finally we did get an image from that period of the polarized light (shown
-below) which was detected by <a href="https://en.wikipedia.org/wiki/BICEP_and_Keck_Array" desc="Check out for LIGO which finally detected a gravitational wave source">BICEP 2</a> back in March 2014. 
+below) which was detected by BICEP 2 back in March 2014. 
 
 **But this was later ruled out and confirmed to be the result of cosmic dust.**
 
