@@ -48,7 +48,7 @@
 
         tooltip
           .css({
-            'border-left': 'solid 6px #751aff',
+            'border-left': 'solid 2px #751aff',
             'font-size': '14px',
             'left': position.left + width + 610,
             'min-height': parent.height(),
