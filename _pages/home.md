@@ -9,6 +9,3 @@ title: ""
 author_profile: false
 permalink: /
 ---
-
-## Welcome to citroscience
-
