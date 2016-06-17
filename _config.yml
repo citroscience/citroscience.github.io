@@ -11,7 +11,7 @@ title                    : "citroscience"
 title_separator          : "-"
 name                     : "citroscience"
 description              : "A Community for Science Enthusiasts"
-url                      : "https://blog.citroscience.org"
+url                      : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
