@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Blog"
-    url: https://blog.citroscience.org/blog/
   - title: "Community"
     url: https://citroscience.org
   - title: "Slack"
