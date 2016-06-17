@@ -1,3 +1,3 @@
 # citroscience
 
-![citroscience logo](https://citroscience.github.io/images/logo.png)
+![citroscience logo](https://blog.citroscience.org/images/header.jpg)
