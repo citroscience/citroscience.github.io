@@ -57,3 +57,7 @@ below) which was detected by BICEP 2 back in March 2014.
 So we don’t have a proof yet to confirm the existence of gravitational waves but
 that doesn’t stop scientists from working hard to prove its existence and it may
 occur soon.
+
+**Suggested book:**
+
+{% include embed.html url="http://www.amazon.in/Gravitational-Waves-1-Theory-Experiments/dp/0198570740/ref=sr_1_1?s=books&ie=UTF8&qid=1466496013&sr=1-1&keywords=gravitational+waves" text="Gravitational waves" %}
