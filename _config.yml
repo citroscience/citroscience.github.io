@@ -57,7 +57,7 @@ social:
 analytics:
   provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-68647697-2
+    tracking_id          : UA-77741142-2
 
 # Google AdSense
 google_ad_client         :

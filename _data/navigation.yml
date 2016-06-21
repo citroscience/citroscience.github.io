@@ -4,7 +4,5 @@ main:
     url: https://citroscience.org
   - title: "Slack"
     url: https://blog.citroscience.org/slack/
-  - title: "About"
-    url: https://blog.citroscience.org/about/
-
-
+#  - title: "About" 
+#    url: https://blog.citroscience.org/about/
