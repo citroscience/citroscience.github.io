@@ -2,6 +2,8 @@
 path: ""
 type: posts
 layout: single
+header:
+  teaser: 
 author_profile: true
 author: Hari Prasad
 read_time: true

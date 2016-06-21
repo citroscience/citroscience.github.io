@@ -3,6 +3,8 @@ title: "Introduction: The world of Strings"
 path: ""
 type: posts
 layout: single
+header:
+  teaser: https://drive.google.com/uc?id=0BxnuEY6ZhVl3NExCcUxBRzNVY0E
 author_profile: true
 author: Hari Prasad
 read_time: true
